@@ -10,4 +10,4 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm a big fan of 2k and basketball!!!
 
-## Feel free to talk with me through my email Leoyang158@gmail.com
+## Feel free to talk with me through email Leoyang158@gmail.com
