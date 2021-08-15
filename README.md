@@ -1,5 +1,4 @@
-# Hi there 👋 My name is Linjian (Leo) Yang. 
-# Welcome to my Github! 
+# Hi there 👋 My name is Linjian (Leo) Yang. Welcome to my Github! 
 ## Here's my personal profolio https://leoyang158.github.io/Portfolio/index.html
 
 - 🔭 I’m currently working on Full-Stack Application
