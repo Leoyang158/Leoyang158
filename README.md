@@ -1,5 +1,5 @@
 # Hi there 👋 My name is Linjian (Leo) Yang. Welcome to my Github! 
-## Here's my personal profolio [https://leoyang158.github.io/Portfolio/index.html](https://linjian-webapp.web.app/)
+## Here's my [profolio](https://linjian-webapp.web.app/)
 
 - 🔭 I’m currently working on embedded firmware for test and measurement systems, ensuring high accuracy and reliability.
 - 🌱 I’m integrating AI into development workflows and exploring agentic systems, LLM applications, and modern coding paradigms.
