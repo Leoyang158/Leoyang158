@@ -1,13 +1,12 @@
 # Hi there 👋 My name is Linjian (Leo) Yang. Welcome to my Github! 
-## Here's my personal profolio https://leoyang158.github.io/Portfolio/index.html
+## Here's my personal profolio [https://leoyang158.github.io/Portfolio/index.html](https://linjian-webapp.web.app/)
 
-- 🔭 I’m currently working on Full-Stack Application
-- 🌱 I’m currently learning React.js, Django, Redux
-- 👯 I’m looking to collaborate on MERN and Django-Based Project
-- 🤔 I’m looking for help with more creative design of project UI
-- 💬 Ask me about anything relative to Food, Sport, Technology, Market Strategy, and Washing Dishes!
+- 🔭 I’m currently working on embedded firmware for test and measurement systems, ensuring high accuracy and reliability.
+- 🌱 I’m integrating AI into development workflows and exploring agentic systems, LLM applications, and modern coding paradigms.
+- 👯 I’m looking to collaborate on AI research and projects, particularly in LLMs, RL, and intelligent systems.
+- 💬 Ask me about Food, Sports, Technology, and Investment.
 - 📫 How to reach me: https://www.linkedin.com/in/linjian-yang-33907019a/
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm a big fan of 2k and basketball!!!
+- ⚡ Fun fact: Big fan of AI-Driven Programming.
 
-### Feel free to talk with me through email Leoyang158@gmail.com
+### Feel free to chat with me through email Leoyang158@gmail.com
