@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Linjian (Leo) Yang. Welcome to my Github! 
+# Hello 👋 My name is Linjian (Leo) Yang. Welcome to my Github! 
 ## Here's my [profolio](https://linjian-webapp.web.app/)
 
 - 🔭 I’m currently working on embedded firmware for test and measurement systems, ensuring high accuracy and reliability.
